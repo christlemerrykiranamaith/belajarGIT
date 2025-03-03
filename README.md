@@ -10,3 +10,10 @@
 7. Tugas-finalProject
 
 ### Daftar Perintah Git
+- git clone
+- git checkout -b
+- git add
+- git commit -m
+- git merge
+- git push origin main
+- git push origin --all
